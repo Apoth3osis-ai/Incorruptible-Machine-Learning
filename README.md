@@ -1,10 +1,10 @@
 # Incorruptible-Machine-Learning
 To create an efficient and reliable way for third-party users to input their training data and fine-tune their models using the provided immutable logging framework, we should design a user-friendly interface or a set of well-documented functions. This will allow users to easily integrate their data and models into the process.
 
-Here’s a step-by-step approach to achieve this:
-Function-based Design: Encapsulate the entire process into functions that users can call with their data and models.
-Documentation and Examples: Provide clear documentation and examples to guide users.
-Configuration File: Allow users to specify their hyperparameters and other configurations in a configuration file.
+## Here’s a step-by-step approach to achieve this:
+* Function-based Design: Encapsulate the entire process into functions that users can call with their data and models.
+* Documentation and Examples: Provide clear documentation and examples to guide users.
+* Configuration File: Allow users to specify their hyperparameters and other configurations in a configuration file.
 # Code Implementation
 * Step 1: Define Functions
 * Setup Environment: Initialize directories and import necessary libraries.
